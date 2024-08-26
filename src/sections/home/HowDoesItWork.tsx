@@ -55,7 +55,7 @@ const HowDoesItWork = () => {
           style={paytoneOneFont.style}
           variant="h2"
         >
-          How does Wonderfoods <br className="lg:hidden" /> Work?
+          How does Foods <br className="lg:hidden" /> Work?
         </Typography>
         <StyledWrapper>
           <HowDoesItWorkTile

@@ -23,7 +23,7 @@ const MediaCardList: React.FC = () => {
     {
       title: 'Create child profile',
       descriptions: [
-        'Wonderfoods was developed with the guidance of Occupational Therapists and Child Behaviour specialists.',
+        'Foods was developed with the guidance of Occupational Therapists and Child Behaviour specialists.',
         "If you have concerns regarding your child's eating, it is important to discuss this with your GP or pediatrician before using these tools.",
       ],
       image: {
@@ -42,7 +42,7 @@ const MediaCardList: React.FC = () => {
     {
       title: 'select foods',
       descriptions: [
-        'Wonderfoods was developed with the guidance of Occupational Therapists and Child Behaviour specialists.',
+        'Foods was developed with the guidance of Occupational Therapists and Child Behaviour specialists.',
         "If you have concerns regarding your child's eating, it is important to discuss this with your GP or pediatrician before using these tools.",
       ],
       image: {
@@ -61,7 +61,7 @@ const MediaCardList: React.FC = () => {
     {
       title: 'playing food adventure',
       descriptions: [
-        'Wonderfoods was developed with the guidance of Occupational Therapists and Child Behaviour specialists.',
+        'Foods was developed with the guidance of Occupational Therapists and Child Behaviour specialists.',
         "If you have concerns regarding your child's eating, it is important to discuss this with your GP or pediatrician before using these tools.",
       ],
       image: {
@@ -78,7 +78,7 @@ const MediaCardList: React.FC = () => {
     {
       title: 'add exposure',
       descriptions: [
-        'Wonderfoods was developed with the guidance of Occupational Therapists and Child Behaviour specialists.',
+        'Foods was developed with the guidance of Occupational Therapists and Child Behaviour specialists.',
         "If you have concerns regarding your child's eating, it is important to discuss this with your GP or pediatrician before using these tools.",
       ],
       image: {
@@ -94,7 +94,7 @@ const MediaCardList: React.FC = () => {
     {
       title: 'EARN AWARDS',
       descriptions: [
-        'Wonderfoods was developed with the guidance of Occupational Therapists and Child Behaviour specialists.',
+        'Foods was developed with the guidance of Occupational Therapists and Child Behaviour specialists.',
         "If you have concerns regarding your child's eating, it is important to discuss this with your GP or pediatrician before using these tools.",
       ],
       image: {

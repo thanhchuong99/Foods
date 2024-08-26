@@ -29,7 +29,7 @@ const LogoContainer = () => (
       }}
     >
       <Image priority src="/logo-header.svg" width={54} height={48} alt="logo" />
-      <Image priority src="/WONDERFOODS.svg" width={98} height={17} alt="logo-text" />
+      <Image priority src="/Foods.svg" width={98} height={17} alt="logo-text" />
     </Box>
   </Link>
 );

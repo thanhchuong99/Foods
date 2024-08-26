@@ -104,7 +104,7 @@ const HeroSection = () => {
             <HeroTitleText
               sx={{ color: theme => theme.palette.primary.main, position: 'relative', width: 'fit-content' }}
             >
-              Wonderfoods
+              Foods
               <Image
                 className="hidden lg:block absolute -bottom-[17px] lg:-bottom-[17px] left-0 lg:-left-[20px] -z-10 object-contain w-full lg:w-auto"
                 src="/assets/svg/underline-hero-page.svg"

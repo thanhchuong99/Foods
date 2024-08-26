@@ -78,7 +78,7 @@ const AboutUs = () => {
                   },
                 }}
               >
-                Wonderfoods was developed with the guidance of Occupational Therapists and Child Behaviour specialists.
+                Foods was developed with the guidance of Occupational Therapists and Child Behaviour specialists.
               </StyledTextAboutUs>
               <StyledTextAboutUs
                 sx={{

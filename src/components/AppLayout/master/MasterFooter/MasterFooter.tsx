@@ -159,8 +159,7 @@ const MasterFooter = ({ isAuthPage }: Props) => {
                     },
                   }}
                 >
-                  Wonderfoods was developed with the guidance of Occupational Therapists and Child Behaviour
-                  specialists.
+                  Foods was developed with the guidance of Occupational Therapists and Child Behaviour specialists.
                 </Typography>
               </WrapperBox>
             </StackTopFooterItem>
@@ -241,7 +240,7 @@ const MasterFooter = ({ isAuthPage }: Props) => {
           >
             © {new Date().getFullYear()}{' '}
             <Box sx={{ color: primary.base }} component="span">
-              {appInformation?.app_title ?? 'Wonderfoods'}
+              {appInformation?.app_title ?? 'Foods'}
             </Box>{' '}
             All rights reserved.
           </Typography>

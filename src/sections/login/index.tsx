@@ -107,8 +107,8 @@ const LoginPage = () => {
           />
         </Link>
       </Box>
-      <StyledFormTitle>Welcome to wonderfoods</StyledFormTitle>
-      <FormText.FormDescription>Sign in to continue in Wonderfoods</FormText.FormDescription>
+      <StyledFormTitle>Welcome to Foods</StyledFormTitle>
+      <FormText.FormDescription>Sign in to continue in Foods</FormText.FormDescription>
       <Form onSubmit={handleSubmit(onSubmit)} id="form-login">
         <Stack flexDirection="column" gap="16px">
           <EmailInput control={control} name="email" />

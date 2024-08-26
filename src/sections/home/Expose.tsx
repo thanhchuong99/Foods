@@ -51,7 +51,7 @@ const Expose = () => {
           >
             With{' '}
             <Box component="span" sx={{ color: primary.base }}>
-              Wonderfoods
+              Foods
             </Box>{' '}
             your child can
             <br className="hidden lg:inline" /> explore{' '}

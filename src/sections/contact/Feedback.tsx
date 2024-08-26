@@ -34,7 +34,7 @@ const chipStyle = {
   },
 };
 
-const MAIL_ADDRESS = 'help@wonderfoodsapp.com';
+const MAIL_ADDRESS = 'help@Foodsapp.com';
 
 const Feedback = () => {
   const appInformation = useAppInformation();
@@ -58,7 +58,7 @@ const Feedback = () => {
         })}
       >
         <Typography sx={textStyle}>
-          Hi! We’re happy to see you and want to ensure your experience using Wonderfoods is excellent!.
+          Hi! We’re happy to see you and want to ensure your experience using Foods is excellent!.
         </Typography>
         <Typography
           sx={{
