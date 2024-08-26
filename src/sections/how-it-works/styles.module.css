@@ -1,0 +1,49 @@
+@media (min-width: 0px) {
+  .howDoesItWork1 > div,
+  .howDoesItWork2 > div,
+  .howDoesItWork3 > div,
+  .howDoesItWork4 > div,
+  .howDoesItWork5 > div {
+    flex-direction: column;
+  }
+}
+
+.howDoesItWork1 img,
+.howDoesItWork2 img,
+.howDoesItWork3 img,
+.howDoesItWork4 img,
+.howDoesItWork5 img {
+  position: relative;
+  z-index: 10;
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+}
+
+@media (min-width: 1200px) {
+  .howDoesItWork1 > div,
+  .howDoesItWork3 > div,
+  .howDoesItWork5 > div {
+    flex-direction: row;
+  }
+
+  .howDoesItWork2 > div,
+  .howDoesItWork4 > div {
+    flex-direction: row-reverse;
+  }
+}
+
+@media (max-width: 1199px) {
+  .howDoesItWork1 img,
+  .howDoesItWork2 img,
+  .howDoesItWork3 img,
+  .howDoesItWork4 img,
+  .howDoesItWork5 img {
+    object-fit: cover;
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+  }
+}
+
+
